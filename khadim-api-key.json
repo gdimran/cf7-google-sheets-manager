@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "khadim-ceramics-263806",
+  "private_key_id": "3ef41d2338c4e54990fe6cfe36fec49f15880102",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDTcLuB30WhmiYv\n6lKguZKkS4Jbk0hKuCZCuIShsGZ4Hq+YA41/POnWsMSAUO+R+n/prVaoVbsdLxlq\n8l+aJ26e/WBKnqiXloYOalzIjtJjNseZKg1LIiGqBYBQsYea3R4me4ZUtG5F6ktM\n44cBAlZBgxDQ/Fa083GxBcjKy8rMgOv1OxAc2cv63cnfFKMI1fXF3U3BY+n1LRcr\nJiIL/P0vFEnDwsCmOxebapKyf0s43Sw9fPdPH8IYAzQNUU49zQyx/acC83ZPK7Bw\nnH9fEbjKXW1V+Pz2bgUKHGH9xf650FhgJwym30AOIdrbItw6dihSrwaZmMsFZbWv\nxk717n0tAgMBAAECggEALYPBYUoKJ6jSmpLi2YVI60Pz2jmgoLD2T3t/1Xxu+mGE\npADzxxV6MsRXcFW71F0rhsZQ9qiJwFUAsDRfXwQo/GGHhliT6xm0XssHkQaphEDp\nA2/5b5h3za0ke3pTugLqOBd0CazTZgpyzijWSWHS5oRLrOj80zPqX9RibkEjNRUR\nRkskKs/+nZa7KkCjZ2wDgUwvqh2XH9iRRi874z9nky8CxrNBZMJ01N/wE0uUSRtt\niFS0xpQIhbctaHd0sh1morAHJ4ahpJVpoIx3etBQfPJxtD4mS/cMhQb0L40+1F2k\nRxok2tQmgoXiCp2oMIzof9jdfYBdUQ9eNbQSu83uYwKBgQDti7P0OKhsNS/uDIl0\nOVAX+l0fnwe/7l9eXRngdWi3LLTL2KEFxw7b474SN1ggiWnOg+yeYYdrUiVXNxaw\nutiq65Q9vG9Nu0S+IVc8l9tCsN98R0rVp5rFSlY1WHlIdKncssZqlZaesE/sHJmI\n6GnkLPWgwvfehwuxXZEAdu0VvwKBgQDj3dj6Hy8NfGXUw4f31cjvzK+R9gYXb9At\ntVUV2xOS0j9NCZJc4eEbCfZ3qF73Ix7wBCjGZmh1OiLMaWhZq4c1c2864h3BZL9t\n0IjYtR/huuVo1pMId1ADw8/qRnV4jWHrQUDzReYnI2+fmVCKN/Xx/CmSlKj77a0h\np0hJ8+IgEwKBgBTMSIM3ereOqJWlD1vXsMWIrCKan+kUC9GNQTi/zt1K0sGOQ/rn\nhMuH0xpxMgwXO+ZS8qKjU2H4HUDXl+r9UP8WBTKqjuw1Wz1yWdr6SL48EjUlYM34\nELr5WTbueh/35u9lz62BT2Cxey3nCyJLhwntTcw3hdA77rAmyw1JXFStAoGASM2Z\nxJhwBSQIuQjcCWAhuhQwyDbNzXEpF2GHVNtRDqjkFq4HOGvm6yesuqBt7xImkVMS\n4AjaORIhCiRndbbrFTXThQG3thGFZAWro2mDTTDUmUFtatgMFZfbdyOZ5rFtZqfL\no65ikYCt6lUmuXKVvwHtGmsq7osKtOTooNAuIEcCgYAt7djwRciDKkAXMQZhIMGL\n2qmiVKCrWT6fShOFk7ejBe8Bq2mH1RMxWaXX6Ulp0YpU2YT+9tN1hhd3/bgsDmJ1\n3R2FAyFmuHBAMkZMnl0lxqXQJcOTmrSU4r7/7TB3j5CVWdHWe6OLrbMibdygVTO+\n8ubdrm+ah2rorrfpn4Gnyw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "wp-sheet-writer@khadim-ceramics-263806.iam.gserviceaccount.com",
+  "client_id": "102980994813602557090",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wp-sheet-writer%40khadim-ceramics-263806.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
