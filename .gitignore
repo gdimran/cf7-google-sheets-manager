@@ -1,0 +1,6 @@
+#json files except package.json
+# Ignore all .json files
+*.json
+
+# Optionally ignore specific .json files if needed
+# composer.json
